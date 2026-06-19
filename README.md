@@ -30,6 +30,7 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
 - Individual samples:
   - [douban-mcp audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/douban-mcp-sample-audit.html)
   - [firecrawl-mcp-server audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/firecrawl-mcp-sample-audit.html)
+  - [browserbase/mcp-server-browserbase audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/browserbase-mcp-sample-audit.html)
 - Intake: [start an audit request](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=audit-request.yml)
 
 ## What I Work On
