@@ -14,7 +14,10 @@ I offer a $1,000 fixed-price audit for one agent, MCP server, or tool-using prod
 tool boundaries, secrets, auth, write actions, prompt/tool injection paths, tests, and deployment assumptions.
 
 - Landing page: [Agent/MCP Audit Sprint](https://jackjin1997.github.io/agent-audit-sprint/)
-- Sample report: [douban-mcp audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/douban-mcp-sample-audit.html)
+- Public GitHub repo intakes get an automated no-execution scanner triage comment before paid scope acceptance.
+- Sample reports:
+  - [douban-mcp audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/douban-mcp-sample-audit.html)
+  - [firecrawl-mcp-server audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/firecrawl-mcp-sample-audit.html)
 - Intake: [start an audit request](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=audit-request.yml)
 
 ## What I Work On
