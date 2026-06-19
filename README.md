@@ -15,6 +15,9 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
 
 - Landing page: [Agent/MCP Audit Sprint](https://jackjin1997.github.io/agent-audit-sprint/)
 - Public GitHub repo intakes get an automated no-execution scanner triage comment before paid scope acceptance.
+- Vertical pages:
+  - [Trading MCP security audit](https://jackjin1997.github.io/agent-audit-sprint/trading-mcp-security-audit.html)
+  - [Workspace MCP security audit](https://jackjin1997.github.io/agent-audit-sprint/workspace-mcp-security-audit.html)
 - Sample report index: [real public audit samples](https://jackjin1997.github.io/agent-audit-sprint/samples.html)
 - Individual samples:
   - [douban-mcp audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/douban-mcp-sample-audit.html)
