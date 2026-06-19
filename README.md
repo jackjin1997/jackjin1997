@@ -18,6 +18,8 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
 - Vertical pages:
   - [Trading MCP security audit](https://jackjin1997.github.io/agent-audit-sprint/trading-mcp-security-audit.html)
   - [Workspace MCP security audit](https://jackjin1997.github.io/agent-audit-sprint/workspace-mcp-security-audit.html)
+  - [Cloud and database MCP security audit](https://jackjin1997.github.io/agent-audit-sprint/cloud-database-mcp-security-audit.html)
+  - [Browser automation MCP security audit](https://jackjin1997.github.io/agent-audit-sprint/browser-automation-mcp-security-audit.html)
 - Sample report index: [real public audit samples](https://jackjin1997.github.io/agent-audit-sprint/samples.html)
 - Individual samples:
   - [douban-mcp audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/douban-mcp-sample-audit.html)
