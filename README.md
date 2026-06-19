@@ -8,6 +8,15 @@ Agent Harness, runtime reliability, tool use, context/state, MCP, and evaluation
 - Led a 5-person backend team and built the runtime foundation around multi-agent products.
 - Contributed merged upstream fixes to LangChain / LangGraph / LangChainJS and other open-source projects.
 
+## Available: Agent/MCP Audit Sprint
+
+I offer a $1,000 fixed-price audit for one agent, MCP server, or tool-using product slice:
+tool boundaries, secrets, auth, write actions, prompt/tool injection paths, tests, and deployment assumptions.
+
+- Landing page: [Agent/MCP Audit Sprint](https://jackjin1997.github.io/agent-audit-sprint/)
+- Sample report: [douban-mcp audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/douban-mcp-sample-audit.html)
+- Intake: [start an audit request](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=audit-request.yml)
+
 ## What I Work On
 
 | Area | Focus |
