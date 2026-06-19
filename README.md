@@ -14,6 +14,7 @@ I offer a $1,000 fixed-price audit for one agent, MCP server, or tool-using prod
 tool boundaries, secrets, auth, write actions, prompt/tool injection paths, tests, and deployment assumptions.
 
 - Landing page: [Agent/MCP Audit Sprint](https://jackjin1997.github.io/agent-audit-sprint/)
+- LLM/agent summary: [machine-readable service map](https://jackjin1997.github.io/agent-audit-sprint/llms.txt)
 - Browser scanner: [paste a public GitHub URL or scan private local files](https://jackjin1997.github.io/agent-audit-sprint/scan.html)
 - MCP server security scan entry point: [run the focused scan page](https://jackjin1997.github.io/agent-audit-sprint/mcp-server-security-scan.html)
 - MCP Security Radar: [public no-execution scan snapshot of popular MCP repos](https://jackjin1997.github.io/agent-audit-sprint/mcp-security-radar.html)
