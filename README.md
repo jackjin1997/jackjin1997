@@ -17,6 +17,7 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
 - LLM/agent summary: [machine-readable service map](https://jackjin1997.github.io/agent-audit-sprint/llms.txt)
 - AI agent security audit: [tool calls, prompt/tool injection, browser sessions, memory/state, and launch risk](https://jackjin1997.github.io/agent-audit-sprint/ai-agent-security-audit-service.html)
 - AI Agent Security Radar: [no-execution scan snapshot of browser-use, OpenHands, AutoGen, CrewAI, Agno, LangGraph, smolagents, and OpenAI Agents Python](https://jackjin1997.github.io/agent-audit-sprint/ai-agent-security-radar.html)
+- AI Agent Radar scan briefs: [browser-use](https://jackjin1997.github.io/agent-audit-sprint/reports/browser-use-ai-agent-security-scan.html), [OpenHands](https://jackjin1997.github.io/agent-audit-sprint/reports/openhands-ai-agent-security-scan.html), [smolagents](https://jackjin1997.github.io/agent-audit-sprint/reports/smolagents-ai-agent-security-scan.html), [OpenAI Agents Python](https://jackjin1997.github.io/agent-audit-sprint/reports/openai-agents-python-security-scan.html)
 - Browser scanner: [paste a public GitHub URL or scan private local files](https://jackjin1997.github.io/agent-audit-sprint/scan.html)
 - MCP server security scan entry point: [run the focused scan page](https://jackjin1997.github.io/agent-audit-sprint/mcp-server-security-scan.html)
 - MCP Security Radar: [public no-execution scan snapshot of popular MCP repos](https://jackjin1997.github.io/agent-audit-sprint/mcp-security-radar.html)
