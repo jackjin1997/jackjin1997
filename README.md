@@ -46,7 +46,8 @@ I am also testing fixed-price AI-assisted short brand audio packages for podcast
 - Podcast sponsor pack: [USD $149 sponsor-safe audio hook for host-read ads and media-kit upsells](https://jackjin1997.github.io/agent-audit-sprint/podcast-sponsor-jingle.html)
 - AI jingle generator page: [USD $79 / $149 / $399 packages with samples and local brief builder](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-generator.html)
 - Quote/payment packet: [fixed AI jingle package quotes](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-quote.html)
-- Intake: [start an AI jingle order](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=ai-jingle-order.yml)
+- Email brief: [jackjin1997@gmail.com](mailto:jackjin1997@gmail.com) for podcast, business, radio, or agency buyers who do not use GitHub.
+- Intake: [start an AI jingle order](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=ai-jingle-order.yml) if a tracked issue is easier.
 
 Payment is requested only after a written brief/package is accepted. No known-artist soundalikes, living voice clones, or third-party lyrics without rights.
 
