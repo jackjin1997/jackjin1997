@@ -39,6 +39,17 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
   - [browserbase/mcp-server-browserbase audit sample](https://jackjin1997.github.io/agent-audit-sprint/reports/browserbase-mcp-sample-audit.html)
 - Intake: [start an audit request](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=audit-request.yml)
 
+## Available: AI Jingle / Podcast Sponsor Audio Packs
+
+I am also testing fixed-price AI-assisted short brand audio packages for podcasts, sponsor reads, local ads, radio IDs, and creator intros. The fastest-fit offer is a $149 podcast sponsor jingle pack for media-kit owners who already sell host-read ads or branded segments.
+
+- Podcast sponsor pack: [USD $149 sponsor-safe audio hook for host-read ads and media-kit upsells](https://jackjin1997.github.io/agent-audit-sprint/podcast-sponsor-jingle.html)
+- AI jingle generator page: [USD $79 / $149 / $399 packages with samples and local brief builder](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-generator.html)
+- Quote/payment packet: [fixed AI jingle package quotes](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-quote.html)
+- Intake: [start an AI jingle order](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=ai-jingle-order.yml)
+
+Payment is requested only after a written brief/package is accepted. No known-artist soundalikes, living voice clones, or third-party lyrics without rights.
+
 ## What I Work On
 
 | Area | Focus |
