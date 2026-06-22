@@ -44,6 +44,7 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
 I am also testing fixed-price AI-assisted short brand audio packages for podcasts, sponsor reads, local ads, radio IDs, and creator intros. The lowest-friction first test is a $29 founding hook sketch; the fastest-fit full offer is a $149 podcast sponsor jingle pack for media-kit owners who already sell host-read ads or branded segments.
 
 - $29 hook sketch: [USD $29 Founding Hook Sketch for one 8-12 second branded hook direction](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-hook-sketch.html)
+- Podcast intro generator: [USD $29 podcast intro hook for show openers, outro bumps, and segment stings](https://jackjin1997.github.io/agent-audit-sprint/ai-podcast-intro-generator.html)
 - Podcast sponsor pack: [USD $149 sponsor-safe audio hook for host-read ads and media-kit upsells](https://jackjin1997.github.io/agent-audit-sprint/podcast-sponsor-jingle.html)
 - AI jingle generator page: [USD $29 / $79 / $149 / $399 packages with samples and local brief builder](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-generator.html)
 - Quote/payment packet: [fixed AI jingle package quotes](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-quote.html)
