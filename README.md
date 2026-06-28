@@ -43,12 +43,13 @@ tool boundaries, secrets, auth, write actions, prompt/tool injection paths, test
 
 ## Available: AI Jingle / Podcast Sponsor Audio Packs
 
-I am also testing fixed-price AI-assisted short brand audio packages for podcasts, sponsor reads, local ads, radio IDs, and creator intros. The lowest-friction first test is a $29 founding hook sketch; the fastest-fit full offer is a $149 podcast sponsor jingle pack for media-kit owners who already sell host-read ads or branded segments.
+I am also testing fixed-price AI-assisted short brand audio packages for podcasts, sponsor reads, local ads, UGC agency approval packets, radio IDs, and creator intros. The lowest-friction first test is a $29 founding hook sketch; the fastest-fit full offer is a $149 podcast sponsor jingle pack for media-kit owners who already sell host-read ads or branded segments.
 
 - AI music generator storefront: [choose a USD $29 short music sketch for ads, listing videos, wedding highlights, podcasts, sponsor cues, or creator intros](https://jackjin1997.github.io/agent-audit-sprint/ai-music-generator.html)
 - $29 hook sketch: [USD $29 Founding Hook Sketch for one 8-12 second branded hook direction](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-hook-sketch.html)
 - Commercial jingle generator: [USD $29 local ad hook for small business audio ads and social promos](https://jackjin1997.github.io/agent-audit-sprint/ai-commercial-jingle-generator.html)
 - Short-form ad music generator: [USD $29 TikTok/Reels/Shorts/UGC hook packet with email handoff, order link, acceptance/payment text, WAV sketch, source-rights brief, and commercial-use memo](https://jackjin1997.github.io/agent-audit-sprint/ai-short-form-ad-music.html)
+- UGC agency music hooks: [USD $29 client approval audio hook sketch for paid-social teams, with source-rights memo and $149 agency ad music pack upsell](https://jackjin1997.github.io/agent-audit-sprint/ugc-agency-ai-music-hooks.html)
 - Real estate listing music generator: [USD $29 listing video soundtrack sketch for property reels and walkthrough clips](https://jackjin1997.github.io/agent-audit-sprint/ai-real-estate-listing-music.html)
 - Wedding video music generator: [USD $29 wedding highlight soundtrack sketch for teaser reels and filmmaker edits](https://jackjin1997.github.io/agent-audit-sprint/ai-wedding-video-music.html)
 - Podcast intro generator: [USD $29 podcast intro hook for show openers, outro bumps, and segment stings](https://jackjin1997.github.io/agent-audit-sprint/ai-podcast-intro-generator.html)
@@ -56,7 +57,7 @@ I am also testing fixed-price AI-assisted short brand audio packages for podcast
 - AI jingle generator page: [USD $29 / $79 / $149 / $399 packages with samples and local brief builder](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-generator.html)
 - Quote/payment packet: [fixed AI jingle package quotes](https://jackjin1997.github.io/agent-audit-sprint/ai-jingle-quote.html)
 - Email brief: [jackjin1997@gmail.com](mailto:jackjin1997@gmail.com) for podcast, business, radio, or agency buyers who do not use GitHub.
-- AI music discussion: [short-form ad music generator announcement](https://github.com/jackjin1997/agent-audit-sprint/discussions/7)
+- AI music discussion: [short-form and UGC agency music hook announcement](https://github.com/jackjin1997/agent-audit-sprint/discussions/7)
 - Intake: [start an AI jingle order](https://github.com/jackjin1997/agent-audit-sprint/issues/new?template=ai-jingle-order.yml) if a tracked issue is easier.
 
 Payment is requested only after a written brief/package is accepted. No known-artist soundalikes, living voice clones, or third-party lyrics without rights.
